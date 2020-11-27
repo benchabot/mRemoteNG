@@ -1566,7 +1566,7 @@
       <Version>1.8.6.1</Version>
     </PackageReference>
     <PackageReference Include="CefSharp.Common">
-      <Version>81.3.100</Version>
+      <Version>86.0.241</Version>
     </PackageReference>
     <PackageReference Include="CefSharp.WinForms">
       <Version>81.3.100</Version>
